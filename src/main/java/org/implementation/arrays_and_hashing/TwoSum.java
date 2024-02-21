@@ -1,6 +1,8 @@
 package org.implementation.arrays_and_hashing;
 
 /*
+https://leetcode.com/problems/two-sum/description/
+
 1. Two Sum
 Easy
 
